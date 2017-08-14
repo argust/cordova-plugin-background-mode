@@ -43,7 +43,6 @@
 
         <config-file target="*-Info.plist" parent="UIBackgroundModes">
             <array>
-                <string>audio</string>
 				<string>fetch</string>
 				<string>location</string>
             </array>
